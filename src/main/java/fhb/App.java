@@ -1,6 +1,6 @@
-package uebung;
+package fhb;
 
-public class Main {
+public class App {
 	public static void main(String[] args) {
 
 		System.out.println(getHelloWorld());
@@ -18,6 +18,5 @@ public class Main {
 		return "Hello World 2";
 
 	}
+
 }
-	
- 
