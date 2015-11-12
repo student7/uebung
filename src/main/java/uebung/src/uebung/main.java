@@ -1,11 +1,23 @@
 package uebung;
 
-public class main {
+public class Main {
+	public static void main(String[] args) {
 
-String print(String wert){
-	System.out.println(wert);
-	return null;
+		System.out.println(getHelloWorld());
+
+	}
+
+	public static String getHelloWorld() {
+
+		return "Hello World";
+
+	}
+
+	public static String getHelloWorld2() {
+
+		return "Hello World 2";
+
+	}
 }
 	
-}
  
